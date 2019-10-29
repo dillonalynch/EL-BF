@@ -1,2 +1,2 @@
 # EL-BF
-fractal viewer 
+fractal viewer for decoding after encoding in Burp Suite 
